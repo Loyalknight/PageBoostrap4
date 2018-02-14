@@ -1,0 +1,10 @@
+.slider{
+	background: url('../images/Img1.jpg');
+	height: 100vh;
+	background-size:cover;
+	background-position:center;  
+}
+
+h1{
+	color: white;
+}
